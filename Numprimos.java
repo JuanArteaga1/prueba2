@@ -18,7 +18,7 @@ public class Numprimos {
      */
     public static void main(String[] args) {
         
-        int [] primos = {2,3,5,7,11,13,17,23,29};
+        int [] primos = {2,3,5,7,11,13,1,29};
         
         
         for (int i = 0; i < primos.length; i++) {
